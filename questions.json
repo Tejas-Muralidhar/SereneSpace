@@ -1,0 +1,722 @@
+[
+    {
+        "question": "What is the cognitive distortion where you view situations in black and white terms?",
+        "options": [
+            "Catastrophizing",
+            "All-or-Nothing Thinking",
+            "Personalization",
+            "Magnification"
+        ],
+        "correctAnswer": "All-or-Nothing Thinking"
+    },
+    {
+        "question": "Which cognitive distortion involves focusing exclusively on the negative aspects of a situation?",
+        "options": [
+            "Discounting the Positive",
+            "Jumping to Conclusions",
+            "Mind Reading",
+            "Filtering"
+        ],
+        "correctAnswer": "Filtering"
+    },
+    {
+        "question": "What technique is used to challenge irrational beliefs and cognitive distortions?",
+        "options": [
+            "Behavioral Activation",
+            "Thought Record",
+            "Exposure Therapy",
+            "Mindfulness"
+        ],
+        "correctAnswer": "Thought Record"
+    },
+    {
+        "question": "Which cognitive distortion involves blaming oneself for events outside one's control?",
+        "options": [
+            "Personalization",
+            "Overgeneralization",
+            "Catastrophizing",
+            "Fortune Telling"
+        ],
+        "correctAnswer": "Personalization"
+    },
+    {
+        "question": "What is the term for making sweeping conclusions based on a single incident or piece of evidence?",
+        "options": [
+            "Overgeneralization",
+            "Labeling and Mislabeling",
+            "Emotional Reasoning",
+            "Magnification"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "Which cognitive distortion involves predicting that things will go badly without evidence?",
+        "options": [
+            "Fortune Telling",
+            "Mind Reading",
+            "Catastrophizing",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Fortune Telling"
+    },
+    {
+        "question": "What technique involves writing down automatic thoughts and evaluating their accuracy?",
+        "options": [
+            "Cognitive Restructuring",
+            "Thought Record",
+            "Behavioral Experiment",
+            "Graded Exposure"
+        ],
+        "correctAnswer": "Thought Record"
+    },
+    {
+        "question": "Which cognitive distortion is characterized by assuming others are focused on you and judging you?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Filtering",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What is the cognitive distortion where one believes that if something bad could happen, it will happen?",
+        "options": [
+            "Catastrophizing",
+            "Magnification",
+            "Labeling and Mislabeling",
+            "Emotional Reasoning"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "Which technique involves gradually exposing oneself to feared situations to reduce anxiety?",
+        "options": [
+            "Exposure Therapy",
+            "Behavioral Activation",
+            "Cognitive Restructuring",
+            "Thought Record"
+        ],
+        "correctAnswer": "Exposure Therapy"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you are a failure because of a single setback?",
+        "options": [
+            "Labeling and Mislabeling",
+            "Personalization",
+            "All-or-Nothing Thinking",
+            "Emotional Reasoning"
+        ],
+        "correctAnswer": "Labeling and Mislabeling"
+    },
+    {
+        "question": "Which cognitive distortion involves attributing personal failures to external circumstances or other people?",
+        "options": [
+            "Externalization",
+            "Internalization",
+            "Mind Reading",
+            "Personalization"
+        ],
+        "correctAnswer": "Externalization"
+    },
+    {
+        "question": "What is the cognitive distortion where one believes that they are the cause of all negative events?",
+        "options": [
+            "Personalization",
+            "Catastrophizing",
+            "Fortune Telling",
+            "Overgeneralization"
+        ],
+        "correctAnswer": "Personalization"
+    },
+    {
+        "question": "Which technique helps individuals reframe their negative thoughts by looking at them from different perspectives?",
+        "options": [
+            "Cognitive Restructuring",
+            "Thought Record",
+            "Behavioral Activation",
+            "Exposure Therapy"
+        ],
+        "correctAnswer": "Cognitive Restructuring"
+    },
+    {
+        "question": "What cognitive distortion involves dismissing positive experiences as irrelevant or unimportant?",
+        "options": [
+            "Discounting the Positive",
+            "Jumping to Conclusions",
+            "Mind Reading",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Discounting the Positive"
+    },
+    {
+        "question": "Which cognitive distortion involves making extreme interpretations based on a single incident?",
+        "options": [
+            "Overgeneralization",
+            "Catastrophizing",
+            "Labeling and Mislabeling",
+            "Magnification"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "What is the cognitive distortion where one believes that they should always be able to control everything?",
+        "options": [
+            "Control Fallacy",
+            "Mind Reading",
+            "Personalization",
+            "Fortune Telling"
+        ],
+        "correctAnswer": "Control Fallacy"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that one's feelings reflect reality, regardless of evidence?",
+        "options": [
+            "Emotional Reasoning",
+            "All-or-Nothing Thinking",
+            "Mind Reading",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Emotional Reasoning"
+    },
+    {
+        "question": "What technique involves challenging negative self-talk by examining the evidence for and against it?",
+        "options": [
+            "Cognitive Restructuring",
+            "Behavioral Activation",
+            "Thought Record",
+            "Exposure Therapy"
+        ],
+        "correctAnswer": "Cognitive Restructuring"
+    },
+    {
+        "question": "Which cognitive distortion involves interpreting others' behavior as being driven by a personal vendetta?",
+        "options": [
+            "Personalization",
+            "Mind Reading",
+            "Labeling and Mislabeling",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What cognitive distortion involves believing that bad events will happen regardless of one's efforts?",
+        "options": [
+            "Fortune Telling",
+            "Catastrophizing",
+            "All-or-Nothing Thinking",
+            "Overgeneralization"
+        ],
+        "correctAnswer": "Fortune Telling"
+    },
+    {
+        "question": "What cognitive distortion involves believing that you are unworthy because of past mistakes?",
+        "options": [
+            "Labeling and Mislabeling",
+            "Personalization",
+            "All-or-Nothing Thinking",
+            "Emotional Reasoning"
+        ],
+        "correctAnswer": "Labeling and Mislabeling"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that others are constantly judging you?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Filtering",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What cognitive distortion involves viewing a single negative event as a never-ending pattern of defeat?",
+        "options": [
+            "Overgeneralization",
+            "Catastrophizing",
+            "All-or-Nothing Thinking",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "Which cognitive distortion involves assuming that others know what you are thinking?",
+        "options": [
+            "Mind Reading",
+            "Fortune Telling",
+            "Personalization",
+            "Filtering"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What is the term for a cognitive distortion where you believe that others are evaluating you negatively?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Catastrophizing",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that if something can go wrong, it will go wrong?",
+        "options": [
+            "Catastrophizing",
+            "Fortune Telling",
+            "Personalization",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "Which cognitive distortion involves attributing negative outcomes to your own failures rather than external factors?",
+        "options": [
+            "Personalization",
+            "Externalization",
+            "Mind Reading",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Personalization"
+    },
+    {
+        "question": "What technique involves recording automatic thoughts and evaluating their validity?",
+        "options": [
+            "Thought Record",
+            "Cognitive Restructuring",
+            "Behavioral Activation",
+            "Exposure Therapy"
+        ],
+        "correctAnswer": "Thought Record"
+    },
+    {
+        "question": "What is the term for cognitive distortion where one believes that they should be perfect?",
+        "options": [
+            "Perfectionism",
+            "All-or-Nothing Thinking",
+            "Catastrophizing",
+            "Emotional Reasoning"
+        ],
+        "correctAnswer": "Perfectionism"
+    },
+    {
+        "question": "Which cognitive distortion involves viewing situations as far worse than they actually are?",
+        "options": [
+            "Magnification",
+            "Catastrophizing",
+            "Overgeneralization",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Magnification"
+    },
+    {
+        "question": "What cognitive distortion involves believing that you can’t trust others because they will always let you down?",
+        "options": [
+            "Distrust",
+            "All-or-Nothing Thinking",
+            "Mind Reading",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Distrust"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you must meet everyone's expectations, or you’re a failure?",
+        "options": [
+            "Should Statements",
+            "Personalization",
+            "Mind Reading",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Should Statements"
+    },
+    {
+        "question": "Which cognitive distortion involves believing that you have to control everything to avoid problems?",
+        "options": [
+            "Control Fallacy",
+            "Perfectionism",
+            "Mind Reading",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Control Fallacy"
+    },
+    {
+        "question": "What cognitive distortion involves seeing things in the worst possible light?",
+        "options": [
+            "Catastrophizing",
+            "Magnification",
+            "All-or-Nothing Thinking",
+            "Personalization"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "What cognitive distortion involves assuming that you know what others are thinking and that they are thinking negatively about you?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Filtering",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "Which cognitive distortion involves feeling like a failure because of a single mistake?",
+        "options": [
+            "Labeling and Mislabeling",
+            "Personalization",
+            "Overgeneralization",
+            "Emotional Reasoning"
+        ],
+        "correctAnswer": "Labeling and Mislabeling"
+    },
+    {
+        "question": "What cognitive distortion involves believing that a single negative event will determine your overall worth?",
+        "options": [
+            "Overgeneralization",
+            "Catastrophizing",
+            "All-or-Nothing Thinking",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "Which cognitive distortion involves seeing the worst possible outcome in every situation?",
+        "options": [
+            "Catastrophizing",
+            "Fortune Telling",
+            "All-or-Nothing Thinking",
+            "Magnification"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "What cognitive distortion involves interpreting negative events as personal attacks or criticism?",
+        "options": [
+            "Personalization",
+            "Mind Reading",
+            "Filtering",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Personalization"
+    },
+    {
+        "question": "What is the term for cognitive distortion where you believe that your negative feelings reflect reality?",
+        "options": [
+            "Emotional Reasoning",
+            "Mind Reading",
+            "Personalization",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Emotional Reasoning"
+    },
+    {
+        "question": "Which cognitive distortion involves believing that one has to be constantly in control to avoid negative outcomes?",
+        "options": [
+            "Control Fallacy",
+            "Catastrophizing",
+            "Perfectionism",
+            "Mind Reading"
+        ],
+        "correctAnswer": "Control Fallacy"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you must meet everyone’s expectations or you’re a failure?",
+        "options": [
+            "Should Statements",
+            "All-or-Nothing Thinking",
+            "Personalization",
+            "Mind Reading"
+        ],
+        "correctAnswer": "Should Statements"
+    },
+    {
+        "question": "What cognitive distortion involves assuming that others are judging you negatively without any evidence?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Discounting the Positive",
+            "Filtering"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "Which cognitive distortion involves focusing only on the negative and ignoring the positive?",
+        "options": [
+            "Filtering",
+            "All-or-Nothing Thinking",
+            "Personalization",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Filtering"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you must always perform perfectly to be worthy?",
+        "options": [
+            "Perfectionism",
+            "Should Statements",
+            "Catastrophizing",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Perfectionism"
+    },
+    {
+        "question": "What cognitive distortion involves believing that everything you do is either a success or a failure?",
+        "options": [
+            "All-or-Nothing Thinking",
+            "Overgeneralization",
+            "Magnification",
+            "Filtering"
+        ],
+        "correctAnswer": "All-or-Nothing Thinking"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that a negative event will inevitably lead to other negative events?",
+        "options": [
+            "Catastrophizing",
+            "Fortune Telling",
+            "Overgeneralization",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that your self-worth depends entirely on how you perform?",
+        "options": [
+            "Perfectionism",
+            "Personalization",
+            "Mind Reading",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Perfectionism"
+    },
+    {
+        "question": "Which cognitive distortion involves interpreting a single negative event as a global negative pattern?",
+        "options": [
+            "Overgeneralization",
+            "All-or-Nothing Thinking",
+            "Catastrophizing",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "What cognitive distortion involves believing that others are focused on your flaws and shortcomings?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Filtering",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that you must be successful in every area of your life to be valuable?",
+        "options": [
+            "Perfectionism",
+            "Should Statements",
+            "All-or-Nothing Thinking",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Perfectionism"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that if something can go wrong, it will go wrong?",
+        "options": [
+            "Catastrophizing",
+            "Fortune Telling",
+            "Personalization",
+            "Magnification"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "Which cognitive distortion involves assuming that if one bad thing happens, it means that everything is bad?",
+        "options": [
+            "Overgeneralization",
+            "All-or-Nothing Thinking",
+            "Labeling and Mislabeling",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "What cognitive distortion involves believing that you are fundamentally flawed because of one mistake?",
+        "options": [
+            "Labeling and Mislabeling",
+            "Personalization",
+            "Overgeneralization",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Labeling and Mislabeling"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that you must be perfect or you are worthless?",
+        "options": [
+            "Perfectionism",
+            "Catastrophizing",
+            "Mind Reading",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Perfectionism"
+    },
+    {
+        "question": "What cognitive distortion involves interpreting a single negative event as a reflection of your overall failure?",
+        "options": [
+            "Labeling and Mislabeling",
+            "Personalization",
+            "Overgeneralization",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Labeling and Mislabeling"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that if something bad happens, it will always be bad?",
+        "options": [
+            "Catastrophizing",
+            "All-or-Nothing Thinking",
+            "Fortune Telling",
+            "Overgeneralization"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you can’t control your feelings and that they are always accurate?",
+        "options": [
+            "Emotional Reasoning",
+            "Mind Reading",
+            "Personalization",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Emotional Reasoning"
+    },
+    {
+        "question": "Which cognitive distortion involves believing that other people are judging you negatively, even when they are not?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Filtering",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What cognitive distortion involves assuming that if something can go wrong, it will go wrong?",
+        "options": [
+            "Catastrophizing",
+            "Fortune Telling",
+            "Magnification",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that if one small thing goes wrong, it means that everything is bad?",
+        "options": [
+            "All-or-Nothing Thinking",
+            "Overgeneralization",
+            "Labeling and Mislabeling",
+            "Magnification"
+        ],
+        "correctAnswer": "All-or-Nothing Thinking"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you are the cause of other people's negative reactions?",
+        "options": [
+            "Personalization",
+            "Mind Reading",
+            "Labeling and Mislabeling",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Personalization"
+    },
+    {
+        "question": "Which cognitive distortion involves assuming that others are focused on your flaws and shortcomings?",
+        "options": [
+            "Mind Reading",
+            "Personalization",
+            "Filtering",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Mind Reading"
+    },
+    {
+        "question": "What cognitive distortion involves thinking that you must be perfect to avoid negative outcomes?",
+        "options": [
+            "Perfectionism",
+            "Catastrophizing",
+            "Should Statements",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Perfectionism"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that everything you do is either a success or a failure?",
+        "options": [
+            "All-or-Nothing Thinking",
+            "Overgeneralization",
+            "Magnification",
+            "Filtering"
+        ],
+        "correctAnswer": "All-or-Nothing Thinking"
+    },
+    {
+        "question": "What cognitive distortion involves believing that you must meet everyone's expectations to avoid being a failure?",
+        "options": [
+            "Should Statements",
+            "Perfectionism",
+            "Personalization",
+            "All-or-Nothing Thinking"
+        ],
+        "correctAnswer": "Should Statements"
+    },
+    {
+        "question": "Which cognitive distortion involves interpreting a single negative event as a global negative pattern?",
+        "options": [
+            "Overgeneralization",
+            "Catastrophizing",
+            "All-or-Nothing Thinking",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Overgeneralization"
+    },
+    {
+        "question": "What cognitive distortion involves believing that you can’t trust others because they will always let you down?",
+        "options": [
+            "Distrust",
+            "All-or-Nothing Thinking",
+            "Mind Reading",
+            "Catastrophizing"
+        ],
+        "correctAnswer": "Distrust"
+    },
+    {
+        "question": "Which cognitive distortion involves thinking that if something can go wrong, it will go wrong?",
+        "options": [
+            "Catastrophizing",
+            "Fortune Telling",
+            "Personalization",
+            "Labeling and Mislabeling"
+        ],
+        "correctAnswer": "Catastrophizing"
+    },
+    {
+        "question": "What cognitive distortion involves focusing exclusively on the negative aspects of a situation?",
+        "options": [
+            "Filtering",
+            "Mind Reading",
+            "Personalization",
+            "Discounting the Positive"
+        ],
+        "correctAnswer": "Filtering"
+    },
+    {
+        "question": "Which cognitive distortion involves making extreme interpretations based on a single event?",
+        "options": [
+            "Overgeneralization",
+            "Catastrophizing",
+            "Labeling and Mislabeling",
+            "Magnification"
+        ],
+        "correctAnswer": "Overgeneralization"
+    }
+]
