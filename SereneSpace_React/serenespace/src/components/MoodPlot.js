@@ -68,7 +68,7 @@ const MoodPlot = () => {
                 data: moodData.map(entry => entry.moods.reduce((acc, mood) => acc + getMoodScore(mood), 0) / entry.moods.length),
                 backgroundColor: moodData.map(entry => {
                     const averageScore = entry.moods.reduce((acc, mood) => acc + getMoodScore(mood), 0) / entry.moods.length;
-                    return averageScore >= 0 ? 'rgba(75,192,192,0.5)' : 'rgba(255,99,132,0.5)';
+                    return averageScore >= 0 ? 'rgba(0,200,100,0.7)' : 'rgba(200,0,50,0.7)';
                 }),
                 borderColor: moodData.map(entry => {
                     const averageScore = entry.moods.reduce((acc, mood) => acc + getMoodScore(mood), 0) / entry.moods.length;
@@ -127,11 +127,13 @@ const MoodPlot = () => {
         <button onClick={handleLogout} className="logout-button">Logout</button>
         </div>
         <div className="mood-plot-container">
+            <h2>Mood Plot</h2>
             <div className="date-picker">
                 <label>
                     Start Date:
                     <input
                         type="date"
+                        className='moodplotdate'
                         value={startDate}
                         onChange={(e) => setStartDate(e.target.value)}
                         required
@@ -141,6 +143,7 @@ const MoodPlot = () => {
                     End Date:
                     <input
                         type="date"
+                        className='moodplotdate'
                         value={endDate}
                         onChange={(e) => setEndDate(e.target.value)}
                         required

@@ -73,7 +73,7 @@ const TriviaGame = () => {
                                 value={option}
                                 checked={selectedOption === option}
                                 onChange={() => handleOptionChange(option)}
-                            />
+                            /><span></span>
                             <label htmlFor={option}>{option}</label>
                         </div>
                     ))}

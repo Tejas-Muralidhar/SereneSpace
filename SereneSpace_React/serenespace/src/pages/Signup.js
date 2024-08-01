@@ -20,8 +20,8 @@ const Signup = () => {
 
   return (
     <div className="signup-container">
-        <header>
-            <h1>SereneSpace</h1>
+        <header className='SignupHeader'>
+            <h1>SereneSpace: Your Wellness App</h1>
         </header>
         <form className="signup-form" onSubmit={handleSignup}>
             <h2>Sign Up</h2>

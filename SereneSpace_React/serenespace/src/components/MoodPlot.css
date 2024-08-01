@@ -1,7 +1,7 @@
 /* MoodPlot.css */
 .mood-plot-container {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #dba857;
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
@@ -20,7 +20,7 @@
     display: flex;
     flex-direction: column;
     font-size: 1em;
-    color: #555;
+    color: #000000;
 }
 
 .date-picker input[type="date"] {
@@ -28,6 +28,10 @@
     font-size: 1em;
     border: 1px solid #ccc;
     border-radius: 4px;
+}
+
+.moodplotdate{
+    background-color: #c56600 !important;
 }
 
 .error {
@@ -39,4 +43,9 @@
 
 .mood-plot-container p {
     text-align: center;
+}
+
+h2{
+    color: #000;
+    margin-bottom: 0;;
 }

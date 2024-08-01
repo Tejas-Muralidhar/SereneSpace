@@ -36,7 +36,7 @@ const Login = () => {
     return (
         <div className="login-container">
             <header className='LoginHeader'>
-                <h1>SereneSpace</h1>
+                <h1>SereneSpace: Your Wellness App</h1>
             </header>
             {error && <p className="error-message">{error}</p>}
             <form className="login-form" onSubmit={handleSubmit}>

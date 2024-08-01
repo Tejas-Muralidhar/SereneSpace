@@ -12,16 +12,16 @@
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    background: #feffdf;
+    background: #ede9a3;
 }
 
 .login-form {
-    background: white;
+    background: #1b8057;
     padding: 0 2rem;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 30%;
+    width: 25%;
     height: max-content;
 }
 
@@ -43,22 +43,28 @@
     padding: 0.5rem;
     border: none;
     border-radius: 5px;
-    background-color: #070f4e;
-    color: white;
+    background-color: #997732;
+    color: black;
     font-size: 1rem;
     cursor: pointer;
 }
 
 .login-form button:hover {
-    background: #0056b3;
+    background: #996600;
+    transition: 0.5s;
 }
 
 .login-form p {
     margin-bottom: 1rem;
+    color: white;
+}
+
+.login-form h2{
+    color: white;
 }
 
 .login-form a {
-    color: #070f4e;;
+    color: #070f4e;
     text-decoration: none;
 }
 
@@ -75,26 +81,38 @@
 
 .LoginHeader {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 100%;
     max-height: 20vh;
-    background: #ffe79a;
+    background: #1b8057;
     /* Primary color */
     color: white;
     padding: 0 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 4rem;
+    margin-bottom: 7rem;
 }
 
 .LoginHeader h1{
-    color: #070f4e;
+    color: #ffffff;
 }
 
 
 footer {
-    font-size: 0.875rem;
-    color: #777;
+    width: 100%;
+    background: #cbf078;
+    /* Primary color */
+    color: white;
+    padding: 0 1rem;
+    text-align: center;
+    min-height: 5vh;
+    margin-top: auto;
+    /* Push the footer to the bottom */
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.footer p {
+    margin: 0;
 }
 
 

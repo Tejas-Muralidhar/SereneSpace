@@ -91,6 +91,7 @@ const Journal = () => {
                     <input
                         type="text"
                         placeholder="Title"
+                        className='textinput'
                         value={title}
                         onChange={(e) => setTitle(e.target.value)}
                         required
